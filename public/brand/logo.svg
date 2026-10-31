@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" fill="none">
+  <defs>
+    <!-- Gold / Orange Gradient for 'A' & 'X' -->
+    <linearGradient id="apxGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFB347"/>
+      <stop offset="50%" stop-color="#FF8C32"/>
+      <stop offset="100%" stop-color="#D96800"/>
+    </linearGradient>
+
+    <!-- Metallic Silver Gradient for 'P' & 'X' -->
+    <linearGradient id="apxSilver" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="45%" stop-color="#E2E8F0"/>
+      <stop offset="80%" stop-color="#94A3B8"/>
+      <stop offset="100%" stop-color="#64748B"/>
+    </linearGradient>
+
+    <!-- Subtle Glow Filter -->
+    <filter id="apxGlow" x="-15%" y="-15%" width="130%" height="130%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- APX Monogram Group -->
+  <g transform="translate(10, 6) scale(0.68)">
+    <!-- Letter 'A' Left Leg (Gold/Orange) -->
+    <path d="M 52 0 L 78 0 L 26 100 L 0 100 Z" fill="url(#apxGold)"/>
+    
+    <!-- Letter 'A' Right Leg (Silver) -->
+    <path d="M 52 0 L 78 0 L 104 100 L 78 100 Z" fill="url(#apxSilver)"/>
+    
+    <!-- Dynamic Curved Swoop Arc (Gold Accent) -->
+    <path d="M 12 76 Q 60 30 145 28 Q 80 44 26 84 Z" fill="url(#apxGold)" filter="url(#apxGlow)"/>
+
+    <!-- Letter 'P' (Metallic Silver Block) -->
+    <path d="M 88 0 L 140 0 C 158 0 170 12 170 30 C 170 48 158 60 140 60 L 112 60 L 112 100 L 88 100 Z M 112 20 L 136 20 C 144 20 148 24 148 30 C 148 36 144 40 136 40 L 112 40 Z" fill="url(#apxSilver)"/>
+
+    <!-- Letter 'X' Left Arm (Silver) -->
+    <path d="M 172 0 L 198 0 L 254 100 L 228 100 Z" fill="url(#apxSilver)"/>
+
+    <!-- Letter 'X' Right Arm (Gold/Orange Chevron) -->
+    <path d="M 228 0 L 254 0 L 198 100 L 172 100 Z" fill="url(#apxGold)"/>
+  </g>
+
+  <!-- Group: DIGITAL -->
+  <text x="188" y="38" font-family="'Plus Jakarta Sans', 'Inter', -apple-system, sans-serif" font-size="24" font-weight="800" letter-spacing="4.5" fill="currentColor">
+    DIGITAL
+  </text>
+
+  <!-- Hairline Rule Flanking DIGITAL -->
+  <line x1="188" y1="46" x2="308" y2="46" stroke="url(#apxGold)" stroke-width="1.8" opacity="0.8"/>
+
+  <!-- Tagline: BUILD • CREATE • INNOVATE -->
+  <text x="189" y="60" font-family="'Plus Jakarta Sans', 'Inter', -apple-system, sans-serif" font-size="7.5" font-weight="700" letter-spacing="2.2" fill="currentColor" opacity="0.65">
+    BUILD • CREATE • INNOVATE
+  </text>
+</svg>
