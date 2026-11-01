@@ -41,7 +41,7 @@ interface CareerOSState {
 }
 
 export const useCareerStore = create<CareerOSState>()(persist((set) => ({
-  activeTab: 'dashboard',
+  activeTab: 'builder',
   setActiveTab: (activeTab) => set({ activeTab }),
   selectedTemplate: DEFAULT_TEMPLATE_ID,
   setSelectedTemplate: (selectedTemplate) => set({ selectedTemplate }),
