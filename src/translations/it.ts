@@ -290,7 +290,7 @@ export const it: Translations = {
         ],
       },
       prince: {
-        designation: "CO-FONDATORE (CO-FOUNDER)",
+        designation: "CO-FOUNDER",
         education: "Laurea in Informatica e Tecnologie dell'Informazione — Dronacharya Group of Institutions, Greater Noida",
         summary: "Co-fondatore e responsabile frontend e UI/UX presso APX Digital. Specializzato nella creazione di interfacce web reattive, intuitive e visivamente d'impatto. Possiede una profonda conoscenza delle strutture dati, degli algoritmi e della progettazione orientata agli oggetti.",
         highlights: [

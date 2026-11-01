@@ -7,7 +7,7 @@ export interface TeamMember {
   id: string;
   name: string;
   designation: { en: string; hi: string };
-  officialRole: 'FOUNDER' | 'FOUNDING PARTNER' | 'FOUNDING TEAM MEMBER';
+  officialRole: 'FOUNDER' | 'CO-FOUNDER' | 'FOUNDING PARTNER' | 'FOUNDING TEAM MEMBER';
   photoUrl: string;
   education: { en: string; hi: string };
   summary: { en: string; hi: string };
@@ -125,10 +125,10 @@ export const teamData: TeamMember[] = [
   {
     id: 'prince-singh',
     name: 'Prince Singh',
-    officialRole: 'FOUNDING PARTNER',
+    officialRole: 'CO-FOUNDER',
     designation: {
-      en: 'FOUNDING PARTNER',
-      hi: 'संस्थापक भागीदार (FOUNDING PARTNER)',
+      en: 'CO-FOUNDER',
+      hi: 'सह-संस्थापक (CO-FOUNDER)',
     },
     photoUrl: '/team/prince-singh.jpg',
     education: {
@@ -137,7 +137,7 @@ export const teamData: TeamMember[] = [
     },
     professionalHighlights: {
       en: [
-        'Founding Partner at APX Digital.',
+        'Co-Founder at APX Digital.',
         'Python and C programming.',
         'HTML, CSS and JavaScript.',
         'Software product development.',
@@ -146,7 +146,7 @@ export const teamData: TeamMember[] = [
         'NASSCOM & Skill India Digital Hub Software Product Developer certification.',
       ],
       hi: [
-        'APX Digital के संस्थापक साझेदार।',
+        'APX Digital के सह-संस्थापक (Co-Founder)।',
         'पायथन एवं सी प्रोग्रामिंग।',
         'एचटीएमएल, सीएसएस एवं जावास्क्रिप्ट।',
         'सॉफ्टवेयर उत्पाद विकास।',
@@ -156,8 +156,8 @@ export const teamData: TeamMember[] = [
       ],
     },
     summary: {
-      en: 'Founding Partner and Software Engineer at APX Digital. Bridges software product development, technical architecture, and team strategy. Experienced with C, Python, and modern web technologies, with a strong focus on algorithmic problem solving, hackathon execution, and building scalable technological solutions for startups.',
-      hi: 'APX Digital के संस्थापक भागीदार और सॉफ्टवेयर इंजीनियर। सॉफ्टवेयर उत्पाद विकास, तकनीकी आर्किटेक्चर और टीम रणनीति में कुशल। सी, पायथन और आधुनिक वेब तकनीकों में गहन अनुभव, एल्गोरिदम समस्या-समाधान और राष्ट्रीय हैकाथॉन में सक्रिय भूमिका।',
+      en: 'Co-Founder and Software Engineer at APX Digital. Bridges software product development, technical architecture, and team strategy. Experienced with C, Python, and modern web technologies, with a strong focus on algorithmic problem solving, hackathon execution, and building scalable technological solutions for startups.',
+      hi: 'APX Digital के सह-संस्थापक और सॉफ्टवेयर इंजीनियर। सॉफ्टवेयर उत्पाद विकास, तकनीकी आर्किटेक्चर और टीम रणनीति में कुशल। सी, पायथन और आधुनिक वेब तकनीकों में गहन अनुभव, एल्गोरिदम समस्या-समाधान और राष्ट्रीय हैकाथॉन में सक्रिय भूमिका।',
     },
     technicalSkills: [
       'Python',

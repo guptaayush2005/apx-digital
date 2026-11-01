@@ -290,7 +290,7 @@ export const ja: Translations = {
         ],
       },
       prince: {
-        designation: "共同創業者 (CO-FOUNDER)",
+        designation: "CO-FOUNDER",
         education: "コンピュータサイエンス＆IT工学学士 — ドロナチャリア工科大学 (グレーター・ノイダ)",
         summary: "APX Digital 共同創業者兼フロントエンド・UI/UXリード。応答性が高く、直感的で、視覚的に優れたWebインターフェースの開発をリード。データ構造、アルゴリズム、オブジェクト指向設計の深い理解に基づき、複雑なシステム要件を洗練されたデジタル体験へと具現化します。",
         highlights: [

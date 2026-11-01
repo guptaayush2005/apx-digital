@@ -309,11 +309,11 @@ export const en: Translations = {
         ],
       },
       prince: {
-        designation: "FOUNDING PARTNER",
+        designation: "CO-FOUNDER",
         education: "B.Tech in Computer Science & Information Technology — Dronacharya Group of Institutions, Greater Noida",
-        summary: "Founding Partner at APX Digital. Frontend engineer and UI/UX specialist focused on building modern, responsive, and performance-optimized digital experiences. Experienced in turning complex ideas into intuitive user interfaces and leading client-focused web projects.",
+        summary: "Co-Founder at APX Digital. Frontend engineer and UI/UX specialist focused on building modern, responsive, and performance-optimized digital experiences. Experienced in turning complex ideas into intuitive user interfaces and leading client-focused web projects.",
         highlights: [
-          "Founding Partner at APX Digital.",
+          "Co-Founder at APX Digital.",
           "Frontend engineering and UI/UX design.",
           "React, TypeScript, Tailwind CSS and modern web frameworks.",
           "Responsive web design and cross-platform optimization.",
@@ -677,7 +677,7 @@ export const en: Translations = {
     faqs: [
       {
         q: "How quickly does the APX Digital team respond to inquiries?",
-        a: "Founder Ayush Gupta or Founding Partner Prince Singh personally reviews all incoming project scopes and responds within 24 hours with feasibility feedback.",
+        a: "Founder Ayush Gupta or Co-Founder Prince Singh personally reviews all incoming project scopes and responds within 24 hours with feasibility feedback.",
       },
       {
         q: "Can we schedule a discovery call before committing to a contract?",

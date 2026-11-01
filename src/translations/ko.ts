@@ -290,7 +290,7 @@ export const ko: Translations = {
         ],
       },
       prince: {
-        designation: "공동 창립자 (CO-FOUNDER)",
+        designation: "CO-FOUNDER",
         education: "컴퓨터 과학 및 정보기술 공학사 — Dronacharya Group of Institutions (그레이터 노이다)",
         summary: "APX Digital 공동 창립자 겸 프론트엔드/UI/UX 리더. 반응성이 뛰어나고 직관적이며 뛰어난 시각적 완성도를 자랑하는 웹 인터페이스 구축 전문가입니다. 자료구조, 알고리즘, 객체지향 설계에 대한 깊은 이해를 바탕으로 복잡한 시스템 로직을 매끄러운 사용자 경험으로 완성합니다.",
         highlights: [

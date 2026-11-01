@@ -290,7 +290,7 @@ export const fr: Translations = {
         ],
       },
       prince: {
-        designation: "ASSOCIÉ FONDATEUR (FOUNDING PARTNER)",
+        designation: "CO-FOUNDER",
         education: "B.Tech en Informatique et Technologies de l'Information — Dronacharya Group of Institutions",
         summary: "Associé fondateur chez APX Digital. Ingénieur frontend et spécialiste UI/UX dédié à la création d'expériences web modernes, réactives et hautement optimisées. Expert dans la transformation d'idées complexes en interfaces utilisateur fluides.",
         highlights: [
@@ -658,7 +658,7 @@ export const fr: Translations = {
     faqs: [
       {
         q: "Sous quel délai l'équipe d'APX Digital répond-elle aux demandes ?",
-        a: "Le fondateur Ayush Gupta ou l'associé fondateur Prince Singh étudie personnellement chaque demande et répond sous 24 heures avec un premier retour de faisabilité.",
+        a: "Le fondateur Ayush Gupta ou l'co-fondateur Prince Singh étudie personnellement chaque demande et répond sous 24 heures avec un premier retour de faisabilité.",
       },
       {
         q: "Pouvons-nous planifier un appel d'échange avant tout engagement ?",

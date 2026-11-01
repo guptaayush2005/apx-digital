@@ -292,7 +292,7 @@ export const ContactPage: React.FC = () => {
                     style={{ fontSize: '0.85rem', padding: '0.6rem 1rem' }}
                   >
                     <LinkedinIcon size={15} color="#0A66C2" />
-                    <span>Prince Singh (Partner)</span>
+                    <span>Prince Singh (Co-Founder)</span>
                   </a>
                   <a
                     href="https://www.linkedin.com/in/komal-soni-profile"

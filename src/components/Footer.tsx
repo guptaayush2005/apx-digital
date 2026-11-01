@@ -348,7 +348,7 @@ export const Footer: React.FC = () => {
                     }}
                   >
                     <LinkedinIcon size={14} color="#0A66C2" />
-                    <span>Prince (Partner)</span>
+                    <span>Prince (Co-Founder)</span>
                   </a>
                   <a
                     href="https://www.linkedin.com/in/komal-soni-profile"

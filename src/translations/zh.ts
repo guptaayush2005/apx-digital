@@ -290,7 +290,7 @@ export const zh: Translations = {
         ],
       },
       prince: {
-        designation: "联合创始人 (CO-FOUNDER)",
+        designation: "CO-FOUNDER",
         education: "计算机科学与信息技术学士 — 德罗纳查里亚学院 (Dronacharya Group of Institutions)",
         summary: "APX Digital 联合创始人兼前端与产品体验主管。专注于构建极速响应、直观易用且具有非凡视觉张力的 Web 应用程序。深入钻研数据结构、算法与面向对象设计，擅长将复杂的底层系统逻辑转化为优雅流畅的现代用户体验。",
         highlights: [
