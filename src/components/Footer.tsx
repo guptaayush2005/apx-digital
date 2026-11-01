@@ -148,10 +148,8 @@ export const Footer: React.FC = () => {
                 </Link>
               </li>
               <li>
-                <a
-                  href="https://apx-resume-builder.vercel.app/"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                <Link
+                  to="/resume-builder"
                   style={{
                     color: 'var(--text-secondary)',
                     fontSize: '0.92rem',
@@ -161,8 +159,7 @@ export const Footer: React.FC = () => {
                   }}
                 >
                   <span>{t.nav.buildResume || 'Build a Resume'}</span>
-                  <ExternalLink size={12} style={{ opacity: 0.6 }} />
-                </a>
+                </Link>
               </li>
             </ul>
           </div>

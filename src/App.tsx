@@ -11,6 +11,7 @@ import { PortfolioPage } from './pages/PortfolioPage';
 import { TeamPage } from './pages/TeamPage';
 import { ProcessPage } from './pages/ProcessPage';
 import { ContactPage } from './pages/ContactPage';
+import { ResumeBuilderPage } from './pages/ResumeBuilderPage';
 import { StartProjectPage } from './pages/StartProjectPage';
 import { AdminPage } from './pages/AdminPage';
 import { NotFoundPage } from './pages/NotFoundPage';
@@ -55,6 +56,7 @@ const AppContent: React.FC = () => {
           <Route path="/team" element={<TeamPage />} />
           <Route path="/process" element={<ProcessPage />} />
           <Route path="/contact" element={<ContactPage />} />
+          <Route path="/resume-builder" element={<ResumeBuilderPage />} />
           <Route path="/start-project" element={<StartProjectPage />} />
           <Route path="/admin" element={<AdminPage />} />
           <Route path="/admin/login" element={<AdminPage />} />

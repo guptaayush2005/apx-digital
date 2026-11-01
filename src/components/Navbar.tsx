@@ -190,15 +190,18 @@ export const Navbar: React.FC = () => {
             </NavLink>
 
             {/* 8. Build a Resume — Normal Nav Link Immediately After Contact Us */}
-            <a
-              href="https://apx-resume-builder.vercel.app/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="apx-nav-link"
+            <NavLink
+              to="/resume-builder"
+              className={({ isActive }) => `apx-nav-link ${isActive ? 'active' : ''}`}
               title="Build a Resume with APX Digital"
             >
-              <span>{t.nav.buildResume || 'Build a Resume'}</span>
-            </a>
+              {({ isActive }) => (
+                <>
+                  <span>{t.nav.buildResume || 'Build a Resume'}</span>
+                  {isActive && <motion.div layoutId="navActiveLine" className="apx-nav-indicator" />}
+                </>
+              )}
+            </NavLink>
           </nav>
 
           {/* 3. Desktop Actions: 9. Language | 10. Theme | 11. Admin | 12. Start Project */}
@@ -414,10 +417,8 @@ export const Navbar: React.FC = () => {
               </NavLink>
 
               {/* 8. Build a Resume — Normal Link Immediately After Contact Us */}
-              <a
-                href="https://apx-resume-builder.vercel.app/"
-                target="_blank"
-                rel="noopener noreferrer"
+              <NavLink
+                to="/resume-builder"
                 onClick={() => setMobileMenuOpen(false)}
                 className="mobile-drawer-link"
               >
@@ -426,7 +427,7 @@ export const Navbar: React.FC = () => {
                   <span>{t.nav.buildResume || 'Build a Resume'}</span>
                 </div>
                 <ArrowUpRight size={18} style={{ opacity: 0.4 }} />
-              </a>
+              </NavLink>
             </div>
 
             {/* 9-12 Items in Drawer Footer: Language, Theme, Admin, Start Project */}
