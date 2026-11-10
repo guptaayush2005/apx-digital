@@ -35,7 +35,7 @@ if (existing) {
     JSON.stringify(['HTML5', 'CSS3', 'JavaScript', 'Firebase Firestore', 'Firebase Authentication', 'Firebase Hosting', 'Dynamic Admin Dashboard']),
     '/projects/ayush-service-center.jpg',
     JSON.stringify(['/projects/ayush-service-center.jpg']),
-    'https://lnkd.in/p/gXGmXQrv',
+    'https://ayush-hardware-general-store.vercel.app/',
     now
   );
 } else {
@@ -56,7 +56,7 @@ if (existing) {
     JSON.stringify(['HTML5', 'CSS3', 'JavaScript', 'Firebase Firestore', 'Firebase Authentication', 'Firebase Hosting', 'Dynamic Admin Dashboard']),
     '/projects/ayush-service-center.jpg',
     JSON.stringify(['/projects/ayush-service-center.jpg']),
-    'https://lnkd.in/p/gXGmXQrv',
+    'https://ayush-hardware-general-store.vercel.app/',
     null,
     null,
     '2025-11',

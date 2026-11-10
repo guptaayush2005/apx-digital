@@ -41,7 +41,7 @@ export const singleApprovedProject: ProjectItem = {
     'Mobile-first responsive catalog and store inquiry interface'
   ],
   leadEngineer: 'Ayush Gupta (Founder)',
-  liveUrl: 'https://lnkd.in/p/gXGmXQrv',
+  liveUrl: 'https://ayush-hardware-general-store.vercel.app/',
   badge: 'Live Client Deployment',
   accentColor: '#FF8C32',
   clientType: 'Production Client Project',

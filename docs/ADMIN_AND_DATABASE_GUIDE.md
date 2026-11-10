@@ -84,7 +84,7 @@ Inside the **Website CMS** tab:
 - **Add New Project**: Modal to create a project with Title, Slug, Short Description, Full Description, Category, Technologies, Thumbnail URL, Gallery Images, Live URL, GitHub URL, Case Study URL, Featured toggle, and Status (`Published` / `Draft`).
 - **Edit Project**: Modify any project details or replace thumbnails.
 - **Delete Project**: Remove projects with a confirmation safety prompt.
-- **Public Our Work Page Integration**: `PortfolioPage.tsx` fetches from `/api/portfolio` and only displays `Published` projects, featuring the approved project (`https://lnkd.in/p/gXGmXQrv`) as the initial flagship entry.
+- **Public Our Work Page Integration**: `PortfolioPage.tsx` fetches from `/api/portfolio` and only displays `Published` projects, featuring the approved project (`https://ayush-hardware-general-store.vercel.app/`) as the initial flagship entry.
 
 ---
 
