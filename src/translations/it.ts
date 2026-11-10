@@ -103,7 +103,7 @@ export const it: Translations = {
     "badge": "PORTFOLIO VERIFICATO",
     "title": "PROGETTO IN EVIDENZA",
     "subtitle": "Un progetto reale online: sviluppo web moderno, pannello di controllo e database cloud.",
-    "viewProjectBtn": "Vedi il Progetto su LinkedIn",
+    "viewProjectBtn": "Progetto Live",
     "verifiedBadge": "In Produzione",
     "techStackLabel": "Tecnologie Utilizzate",
     "keyDeliverablesLabel": "Architettura e Funzionalità"

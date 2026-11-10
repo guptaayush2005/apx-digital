@@ -103,7 +103,7 @@ export const zh: Translations = {
     "badge": "实战案例",
     "title": "精选上线项目",
     "subtitle": "探索我们成功交付上线的实际项目，展现现代化前端工程、安全管理后台与云数据库无缝集成的技术实力。",
-    "viewProjectBtn": "在 LinkedIn 上查看项目详情",
+    "viewProjectBtn": "在线演示项目",
     "verifiedBadge": "线上正式运行",
     "techStackLabel": "技术栈",
     "keyDeliverablesLabel": "系统架构与功能特性"

@@ -103,7 +103,7 @@ export const ru: Translations = {
     "badge": "ПОРТФОЛИО",
     "title": "РЕАЛИЗОВАННЫЙ ПРОЕКТ",
     "subtitle": "Реальный запущенный проект: веб-разработка, панель управления и облачная база данных.",
-    "viewProjectBtn": "Смотреть проект на LinkedIn",
+    "viewProjectBtn": "Live Проект",
     "verifiedBadge": "Работает в проде",
     "techStackLabel": "Стек технологий",
     "keyDeliverablesLabel": "Архитектура и возможности"

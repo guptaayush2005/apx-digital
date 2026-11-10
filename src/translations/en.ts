@@ -114,7 +114,7 @@ export const en: Translations = {
     title: 'FEATURED CLIENT WORK',
     subtitle:
       'Explore our verified production deployment showcasing modern web engineering, authenticated management dashboards, and cloud database integration.',
-    viewProjectBtn: 'View Project on LinkedIn',
+    viewProjectBtn: 'Live Project',
     verifiedBadge: 'Production Deployment',
     techStackLabel: 'Technology Stack',
     keyDeliverablesLabel: 'System Architecture & Capabilities',

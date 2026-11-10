@@ -103,7 +103,7 @@ export const fr: Translations = {
     "badge": "PORTFOLIO VÉRIFIÉ",
     "title": "PROJET CLIENT EN VEDETTE",
     "subtitle": "Découvrez notre réalisation déployée en production alliant développement web moderne, dashboard d'administration et base de données cloud.",
-    "viewProjectBtn": "Voir le Projet sur LinkedIn",
+    "viewProjectBtn": "Projet en Direct",
     "verifiedBadge": "Déploiement en Production",
     "techStackLabel": "Technologies Utilisées",
     "keyDeliverablesLabel": "Architecture Système & Fonctionnalités"

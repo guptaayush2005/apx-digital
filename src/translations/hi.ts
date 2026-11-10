@@ -114,7 +114,7 @@ export const hi: Translations = {
     title: 'प्रमुख क्लाइंट कार्य',
     subtitle:
       'आधुनिक वेब इंजीनियरिंग, प्रमाणित प्रबंधन डैशबोर्ड और क्लाउड डेटाबेस एकीकरण को प्रदर्शित करने वाला हमारा सत्यापित प्रोडक्शन प्रोजेक्ट।',
-    viewProjectBtn: 'LinkedIn पर प्रोजेक्ट देखें',
+    viewProjectBtn: 'लाइव प्रोजेक्ट',
     verifiedBadge: 'लाइव प्रोडक्शन परिनियोजन',
     techStackLabel: 'प्रौद्योगिकी स्टैक (Tech Stack)',
     keyDeliverablesLabel: 'सिस्टम आर्किटेक्चर एवं विशेषताएं',

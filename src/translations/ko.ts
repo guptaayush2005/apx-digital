@@ -103,7 +103,7 @@ export const ko: Translations = {
     "badge": "검증된 포트폴리오",
     "title": "주요 프로젝트",
     "subtitle": "모던 웹 엔지니어링, 관리자 대시보드 및 클라우드 DB 연동을 증명하는 실제 배포 사례.",
-    "viewProjectBtn": "LinkedIn에서 프로젝트 보기",
+    "viewProjectBtn": "라이브 프로젝트",
     "verifiedBadge": "실제 배포 완료",
     "techStackLabel": "기술 스택",
     "keyDeliverablesLabel": "시스템 아키텍처 및 주요 기능"

@@ -103,7 +103,7 @@ export const ja: Translations = {
     "badge": "制作実績",
     "title": "注目の実案件",
     "subtitle": "モダンWebエンジニアリング、管理ダッシュボード、クラウドDB連携を実証する稼働中のプロジェクト。",
-    "viewProjectBtn": "LinkedInでプロジェクトを見る",
+    "viewProjectBtn": "ライブプロジェクト",
     "verifiedBadge": "本番稼働中",
     "techStackLabel": "採用技術スタック",
     "keyDeliverablesLabel": "システムアーキテクチャ・主要機能"

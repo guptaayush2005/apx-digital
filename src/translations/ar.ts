@@ -103,7 +103,7 @@ export const ar: Translations = {
     "badge": "أعمالنا المعتمدة",
     "title": "المشروع البارز",
     "subtitle": "تعرف على مشروعنا الحقيقي والمنشور في بيئة الإنتاج والذي يبرز هندسة الويب الحديثة ولوحة تحكم آمنة وقاعدة بيانات سحابية.",
-    "viewProjectBtn": "شاهد المشروع على LinkedIn",
+    "viewProjectBtn": "المشروع المباشر",
     "verifiedBadge": "مشروع منشور وموثق",
     "techStackLabel": "التقنيات المستخدمة",
     "keyDeliverablesLabel": "بنية النظام والميزات"

@@ -103,7 +103,7 @@ export const de: Translations = {
     "badge": "GEPRÜFTES PORTFOLIO",
     "title": "REFERENZPROJEKT",
     "subtitle": "Erleben Sie unser verifiziertes Produktionssystem mit moderner Webentwicklung, Admin-Dashboard und Cloud-Datenbank.",
-    "viewProjectBtn": "Projekt auf LinkedIn Ansehen",
+    "viewProjectBtn": "Live-Projekt",
     "verifiedBadge": "Live-Produktionssystem",
     "techStackLabel": "Technologie-Stack",
     "keyDeliverablesLabel": "Systemarchitektur & Funktionen"
